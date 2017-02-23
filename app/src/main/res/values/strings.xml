@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Anik\'sIntent</string>
+    <string name="button">Next</string>
+    <string name="button1">Second Button</string>
+    <string name="button2">Third Button</string>
+    <string name="button3">Back to First</string>
+    <string name="mytext">Hey ! How are you ??</string>
+    <string name="mytext1">I think you are well enough</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_main4">Main4Activity</string>
+</resources>
